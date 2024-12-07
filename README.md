@@ -14,7 +14,7 @@ Outside of coding, you can find me enjoying video games 🎮 or appreciating nat
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,pycharm,idea&theme=dark" height="72px" alt="Programming Languages and IDEs"/>
+    <img src="https://skillicons.dev/icons?i=python,java,pycharm,idea&theme=dark" height="72px"/>
   </a>
 </p>
 
