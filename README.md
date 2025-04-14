@@ -1,5 +1,4 @@
 <h3 align="center">👋 Hi there!
----
 
 <h2 align="center">🌟 About Me</h2>
 
@@ -11,7 +10,7 @@ I love learning new things, experimenting with ideas, and working on projects th
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,pycharm,vs&theme=dark" height="72px"/>
+    <img src="https://skillicons.dev/icons?i=python,cs,pycharm,visualstudio&theme=dark" height="72px"/>
   </a>
 </p>
 
