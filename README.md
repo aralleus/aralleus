@@ -15,10 +15,3 @@ I love learning new things, experimenting with ideas, and working on projects th
 </p>
 
 ---
-
-<h2 align="center">🌐 Let's Connect</h2>
-<p align="center">
-  <a href="https://github.com/Aralleus" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Aralleus-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
-  </a>
-</p>
