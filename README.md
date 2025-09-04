@@ -1,17 +1,20 @@
-<h3 align="center">👋 Hi there!
-
-<h2 align="center">🌟 About Me</h2>
-
-I'm a **junior programmer** exploring **Python** and **C#**.
-I love learning new things, experimenting with ideas, and working on projects that help me grow my skills.
+<h3 align="center">My Profile</h3>
 
 ---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
-<p align="center">
+<h3 align="center">🛠️ Languages and Tools</h3>
+<h4 align="center"><small>Tools</small></h4>
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,pycharm,visualstudio&theme=dark" height="72px"/>
+    <img src="https://skillicons.dev/icons?i=github,vscode" height="62px">
   </a>
-</p>
+</div>
+<h4 align="center"><small>Languages</small></h4>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,lua" height="62px"/>
+  </a>
+</div>
 
 ---
+<div align="right"><sub>Updated: September 2025</sub></div>
