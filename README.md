@@ -12,7 +12,7 @@
 <h4 align="center"><small>Languages</small></h4>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,lua" height="62px"/>
+    <img src="https://skillicons.dev/icons?i=python,lua" height="62px"/>
   </a>
 </div>
 
